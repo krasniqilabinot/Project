@@ -1,0 +1,16 @@
+.tex-readmore1 img{
+    margin: auto;
+    border-radius: 5%;
+    box-shadow: 3px 3px 3px #495a62;
+}
+.tex-readmore1{
+    text-align: center;
+}
+.photo-fixed{
+    width:auto;
+    height: 500px;
+    background-color: #495a62;
+    background-repeat: repeat-x;
+    background-position: left top;
+    background-attachment: fixed;
+}

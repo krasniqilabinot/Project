@@ -1,0 +1,8 @@
+.cont-ab{
+    display: flex;
+}
+.ab-imges, img{
+    margin: 29px;
+    width: 50%;
+    text-align: center;
+}

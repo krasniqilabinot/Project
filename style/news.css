@@ -1,0 +1,54 @@
+.newphoto{
+    width: 100%;
+    height:416px;
+    background-color: darksalmon;
+    background-image: url('https://b2bblogassets.airtel.in/wp-content/uploads/2022/06/startup-company-2048x1152.jpg');
+    background-repeat: repeat-x;
+    background-size: contain;
+    background-attachment: fixed;
+}
+.marque-tex{
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(170 170 170);
+    font-size: 20px;color: white;
+    border: 1px solid black;
+    border-radius: 3px;
+    box-shadow: 3px 5px 5px lightblue;
+}
+.contentas-photo{
+    display: flex;
+    width: auto;
+}
+.tex-new{
+    text-align: center;
+}
+.photo-new{
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.photo-new img{
+    width: 100%;
+    transition: 0.5s all ease-in-out;
+    padding: 3px;
+    border-radius: 5%;
+}
+.photo-new img:hover{
+    transform: scale(1.3);
+}
+.photo-new img ,a{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    cursor: pointer;
+}
+.contentas-photo img:hover{
+    zoom: 1;
+}
+.contentas-photo  img ,a:hover{
+    text-decoration: none;
+    color: black;
+}
