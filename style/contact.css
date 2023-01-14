@@ -54,6 +54,13 @@
     
 }
 @media only screen and (max-width: 600px) {
+    .type-name table, th, td {
+        border: none;
+        display: block;
+        width: 100%;
+        padding: 15px;
+        
+    }
     .input-type{
         display: block;
     }
