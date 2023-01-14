@@ -85,3 +85,13 @@ span.psw {
      width: 100%;
   }
 }
+@media only screen and (max-width: 600px){
+  form {
+    border: 3px solid #f1f1f1;
+    width: auto;
+    background-color: aliceblue;
+}
+.back{
+  font-size: 23px;
+}
+}
